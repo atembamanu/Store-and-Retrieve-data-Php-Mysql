@@ -1,0 +1,29 @@
+.container{
+margin-top: 15px;
+align-content: center;
+height: 650px;
+width: 600px;
+border-radius: 25px;
+border: 2px solid #73AD21;
+
+
+
+}
+#textbox{
+    width: 556px auto; 
+    height: 90px; 
+    
+}
+.container #viewdata{
+  width: 556px auto; 
+}
+input[type="radio"]{
+    margin: 0 15px 0 15px;
+  }
+  #send{
+      margin-left: 100px;
+  }
+  #sucess{
+      align-content: center;
+	color: #73AD21;
+  }
